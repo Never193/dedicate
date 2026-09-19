@@ -1,4 +1,5 @@
-[SITE CRIADO PARA FINS DE ESTUDO DE HTML E CSS]
+
+#dedicate
 
 Um site criado como uma dedicatória para alguém especial.
 
@@ -35,3 +36,5 @@ Love/
 └── README.md
 
 O projeto foi mantido propositalmente simples para que qualquer pessoa possa entender e personalizar a página com facilidade.
+
+[SITE CRIADO PARA FINS DE ESTUDO DE HTML E CSS]
