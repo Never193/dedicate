@@ -1,4 +1,4 @@
-#dedicate
+[SITE CRIADO PARA FINS DE ESTUDO DE HTML E CSS]
 
 Um site criado como uma dedicatória para alguém especial.
 
