@@ -1,44 +1,31 @@
 #dedicate
 
-Um site de dedicatória desenvolvido para uma pessoa especial.
+Um site criado como uma dedicatória para alguém especial.
 
-O projeto utiliza HTML e CSS simples, com poucas animações para complementar a apresentação. A estrutura foi mantida intencionalmente simples para facilitar a compreensão e a personalização.
+O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, mantendo uma estrutura simples, leve e fácil de personalizar.
 
 Personalização
 
-Para alterar os nomes e informações da dedicatória, procure no código pelos seguintes marcadores:
+- Nome
 
-- "(pessoa)"
-- "(???)"
+Para alterar os nomes presentes na dedicatória, abra o arquivo "index.html" e procure por:
 
-Substitua esses valores pelas informações desejadas.
+(pessoa)
+(???)
 
-Caso não saiba onde ou como realizar alguma alteração, utilize ferramentas de pesquisa ou uma ferramenta de IA para auxiliar na compreensão do código.
+Substitua os marcadores pelas informações desejadas.
 
-O projeto possui uma estrutura simples e não exige conhecimentos avançados para realizar modificações básicas.
+Imagem
 
-Alterando a imagem
+A imagem utilizada pelo site é o arquivo "1.jpeg".
 
-Para substituir a imagem utilizada no site:
+Para utilizar outra imagem, basta substituir o arquivo atual pela nova imagem e renomeá-la para "1.jpeg". Ela deve permanecer na mesma pasta do "index.html".
 
-1. Escolha a nova imagem.
-2. Substitua o arquivo "1.jpeg" pela nova imagem.
-3. Renomeie a nova imagem para "1.jpeg".
-4. Mantenha a imagem na mesma pasta do arquivo "index.html".
+- Como usar
 
-É importante manter exatamente o nome "1.jpeg", pois o código utiliza esse nome para localizar a imagem.
+Não há dependências ou instalação necessária.
 
-Tecnologias
-
-- HTML5
-- CSS3
-- JavaScript
-
-Execução
-
-Não é necessário instalar dependências.
-
-Basta abrir o arquivo "index.html" em um navegador.
+Basta abrir o arquivo "index.html" em um navegador para visualizar o site.
 
 Estrutura
 
@@ -47,6 +34,4 @@ Love/
 ├── 1.jpeg
 └── README.md
 
-Sobre
-
-Este projeto foi desenvolvido como uma forma simples de criar uma dedicatória personalizada utilizando tecnologias básicas da web.
+O projeto foi mantido propositalmente simples para que qualquer pessoa possa entender e personalizar a página com facilidade.
